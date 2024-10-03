@@ -17,8 +17,6 @@ This API allows you to manage and conduct battles between Pokémon. Below are th
 
 ## INSTRUCTIONS
 
-### 1. Ejecutar migraciones
-
 ### 1. Run Migrations
 
 ```bash
