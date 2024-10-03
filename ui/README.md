@@ -24,11 +24,21 @@ Welcome to the frontend of the Pokémon **Battle application.** This application
 
    ```
 
-2. Levantar seridor
-
 ## install Dependencies:
 
-npm install
+npm install 
+
+## Creation of the .env File
+
+To set up the necessary environment variables, create a .env file from the provided example file. This will ensure that your application works correctly in your local environment.
+
+Run the following command at the root of the project:
+
+```bash
+cp .env.example .env
+```
+
+
 
 ## Start the Server:
 
